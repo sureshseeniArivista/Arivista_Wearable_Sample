@@ -40,7 +40,7 @@
                     tools:context=".VoiceRecognitionActivity"/>
             <TextView
                     android:id="@+id/details"
-                    android:text="Hi"
+                    android:text="Defalut Chennai"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
 
